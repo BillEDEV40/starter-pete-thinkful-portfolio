@@ -37,10 +37,10 @@ article {
   padding: 50px 0;
 }
 
-article div {
+/*article div {
   text-align: center;
   width: 100%;
-}
+}*/
 
 /* Paragraphs */
 p {
@@ -70,7 +70,6 @@ img {
 .image-circle {
   border: 2px solid #003049;
   border-radius: 50%;
-  align-items: left;
 
 }
 
@@ -82,4 +81,8 @@ footer {
 /* Other page elements */
 hr {
   border: 1px solid black;
+}
+.about-section {
+  display: flex;  
+  margin: auto;
 }
