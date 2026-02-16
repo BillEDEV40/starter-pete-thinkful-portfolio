@@ -73,6 +73,32 @@ img {
 
 }
 
+/*About section*/
+.about-bio {
+  display: flex;  
+  
+}
+.about-h3 {
+  text-align: right;
+  padding-right: 150px;
+}
+
+/* Portfolio section */
+.portfolio{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.portfolio-h3 {
+  text-align: center;
+}
+.portfolio-p {
+  font-size: 14px;
+  text-align: center;
+}
+.portfolio-section{
+  width: 35%;
+}
 /* Footer */
 footer {
   text-align: center;
@@ -82,7 +108,4 @@ footer {
 hr {
   border: 1px solid black;
 }
-.about-section {
-  display: flex;  
-  margin: auto;
-}
+
