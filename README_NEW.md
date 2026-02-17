@@ -1,8 +1,11 @@
-# Assessment: Depper with css
-This will 
+# Project Description
 
+# Project Tradeoffs
 
-# Header Changes
+# AI Use Justification
 
-# About Changes
-Added div to 
+# Challenges and Troubleshooting
+
+# Github and Replit (VSC) Screenshots 
+
+ 
