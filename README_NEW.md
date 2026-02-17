@@ -1,5 +1,8 @@
 # Project Description
-This project is to redesing the 
+This project is to redesing the Pete Thinkful page. The new layout will feature moving so a more readble page 
+relying most only flexbox containers which allows for more of a horizontal layout versus the current
+vertical based layout.
+
 # Project Tradeoffs
 
 # AI Use Justification
