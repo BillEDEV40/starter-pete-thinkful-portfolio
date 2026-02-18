@@ -9,8 +9,8 @@ Moving to a more horizontal layout could make it more challenging for viewers on
 AI tools were not used in this project other than general web seraches and short YouTube videos for addtiona support of the information provided in the course.
 
 # Challenges and Troubleshooting
-
-
-# Github and Replit (VSC) Screenshots 
-
- test
+My biggest challenge getting the allignment correct and realizing the need for additional classes to make the layout work in the different sections. I also need to remember 
+running git push after making commits.
+# Github and Replit (VSC) Screenshots
+<img src="Github_Commit.PNG" width="800" height="800">
+<img src="VSC Screenshot.png" width="800" height="800">
