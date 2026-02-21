@@ -70,7 +70,6 @@ img {
 .image-circle {
   border: 2px solid #003049;
   border-radius: 50%;
-
 }
 
 /*About section*/
@@ -86,19 +85,16 @@ img {
 /* Portfolio section */
 .portfolio{
   display: flex;
-  justify-content: space-evenly;
+  justify-content: flex-start;
   align-items: center;
+
 }
-.portfolio-h3 {
-  text-align: center;
-}
+
 .portfolio-p {
   font-size: 14px;
   text-align: center;
 }
-.portfolio-section{
-  width: 35%;
-}
+
 /* Footer */
 footer {
   text-align: center;
